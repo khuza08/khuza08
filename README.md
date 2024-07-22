@@ -23,5 +23,4 @@ Kernel: 6.10.0-zen1-1-zen
 ![github](https://img.shields.io/badge/hi-there!-orange)
 ![github](https://img.shields.io/aur/license/yay)
 
-[![khuza08 github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/khuza08/github-profile-trophy)
 
