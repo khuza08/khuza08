@@ -9,7 +9,7 @@
      Device: realme_trinket, santoni, natrium, fortuna3g.
      OS: Arch Linux x64
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![github](https://img.shields.io/badge/huza_kanjut-badag_sigma-blue)
+![github](https://img.shields.io/badge/realme-trinket-yellow)
 
 <!--
 **khuza08/khuza08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
