@@ -6,7 +6,7 @@
  $\color{orange}{\textsf{Telegram}}$: $\color{lightblue}{\textsf{@huzawastaken}}$	
  $\color{orange}{\textsf{Hobbies}}$: $\color{lightblue}{\textsf{Makan, Minum, Begadang.}}$	
  Learning: C++, C#, Rust, Java, JS.
- Device: $\color{lightblue}{\textsf{realme_trinket}}$$\color{orange}{\textsf{,}}$	
+ Device: 
  OS: Arch Linux x64
 <!--
 **khuza08/khuza08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
