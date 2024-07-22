@@ -2,7 +2,7 @@
  -------------------------------
  $\color{yellow}{\textsf{Fullname}}$: Huzaifah Asif Putra Imansyah
  $\color{lightblue}{\textsf{School}}$: Vocational Highschool Antartika 2 (2nd)
- Status: Student
+ Status: $\color{burntorange}{\textsf{Student}}$	
  Telegram: @huzawastaken
  Hobbies: 3M, Makan, Minum, Mesin.
  Learning: C++, C#, Rust, Java, JS.
