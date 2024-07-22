@@ -1,15 +1,13 @@
-     huza@$\color{blue}{\textsf{archlinux}}$	
-     -------------------------------
-     Fullname: Huzaifah Asif Putra Imansyah
-     School: Vocational Highschool Antartika 2 (2nd)
-     Status: Student
-     Telegram: @huzawastaken
-     Hobbies: 3M, Makan, Minum, Mesin.
-     Learning: C++, C#, Rust, Java, JS.
-     Device: realme_trinket, santoni, natrium, fortuna3g.
-     OS: Arch Linux x64
-
-$\color{red}{\textsf{lorem ipsum}}$
+ huza@$\color{blue}{\textsf{archlinux}}$	
+ -------------------------------
+ Fullname: Huzaifah Asif Putra Imansyah
+ School: Vocational Highschool Antartika 2 (2nd)
+ Status: Student
+ Telegram: @huzawastaken
+ Hobbies: 3M, Makan, Minum, Mesin.
+ Learning: C++, C#, Rust, Java, JS.
+ Device: realme_trinket, santoni, natrium, fortuna3g.
+ OS: Arch Linux x64
 <!--
 **khuza08/khuza08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
