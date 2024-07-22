@@ -1,4 +1,4 @@
-     huza@archlinux
+     huza@$\color{blue}{\textsf{archlinux}}$	
      -------------------------------
      Fullname: Huzaifah Asif Putra Imansyah
      School: Vocational Highschool Antartika 2 (2nd)
