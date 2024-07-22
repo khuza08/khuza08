@@ -3,10 +3,10 @@
  $\color{yellow}{\textsf{Fullname}}$: Huzaifah Asif Putra Imansyah
  $\color{lightblue}{\textsf{School}}$: Vocational Highschool Antartika 2 (2nd)
  Status: $\color{orange}{\textsf{Student}}$	
- Telegram: @huzawastaken
- Hobbies: 3M, Makan, Minum, Mesin.
+ $\color{orange}{\textsf{Telegram}}$: $\color{lightblue}{\textsf{@huzawastaken}}$	
+ $\color{orange}{\textsf{Hobbies}}$: $\color{lightblue}{\textsf{Makan, Minum, Begadang.}}$	
  Learning: C++, C#, Rust, Java, JS.
- Device: realme_trinket, santoni, natrium, fortuna3g.
+ Device: $\color{lightblue}{\textsf{realme_trinket}}$$\color{orange}{\textsf{,}}$	
  OS: Arch Linux x64
 <!--
 **khuza08/khuza08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
