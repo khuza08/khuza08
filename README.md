@@ -4,7 +4,7 @@
 >huza@archlinux:~$ neofetch
 ```
 
-<img align="left" src="waifu.png" width="130px" href="#"/> 
+<img align="left" src="kapanya.jpg" width="130px" href="#"/> 
 
 ```javascript
 huza@archlinux
