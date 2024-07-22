@@ -1,6 +1,6 @@
  huza@archlinux
  -------------------------------
- $\color{blue}{\textsf{Fullname}}$: Huzaifah Asif Putra Imansyah
+ $\color{yellow}{\textsf{Fullname}}$: Huzaifah Asif Putra Imansyah
  School: Vocational Highschool Antartika 2 (2nd)
  Status: Student
  Telegram: @huzawastaken
