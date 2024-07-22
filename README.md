@@ -1,7 +1,7 @@
-<h2>About me</h2>
+<h2>'Bout me</h2>
 
 ```javascript
->huza@archlinux:~$ neofetch
+> huza@archlinux:~$ neofetch
 ```
 
 <img align="left" src="ngayal.jpg" width="130px" href="#"/> 
