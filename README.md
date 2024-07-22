@@ -1,6 +1,6 @@
-    huza@archlinux
-    -------------------------------
-    $\color{yellow}{\textsf{Fullname}}$: Huzaifah Asif Putra Imansyah
+huza@archlinux
+-------------------------------
+$\color{yellow}{\textsf{Fullname}}$: Huzaifah Asif Putra Imansyah
     $\color{lightblue}{\textsf{School}}$: Vocational Highschool Antartika 2 (2nd)
     Status: $\color{orange}{\textsf{Student}}$	
     $\color{orange}{\textsf{Telegram}}$: $\color{lightblue}{\textsf{@huzawastaken}}$	
