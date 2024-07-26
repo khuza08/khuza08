@@ -10,7 +10,7 @@
 huza@archlinux
 -------------------------------
 Username: khuza08.
-School: Sidoarjo 2 Vocational Highschool 
+School: Antartika 2 Vocational Highschool
 Status: Student
 Telegram: @huzawastaken (huzaKanjut)
 Pronouns: Jawa
