@@ -20,8 +20,9 @@ Laptop: MacBookAir
 OS: Arch Linux x86_64
 Kernel: 6.10.0-zen1-1-zen
 ```
-<h2 align="center">Social</h2>
+<h2 align="center">Kanjut</h2>
 
+```
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
