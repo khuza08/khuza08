@@ -4,22 +4,24 @@
 > huza@archlinux:~$ neofetch
 ```
 
-<img align="left" src="ngayal.jpg" width="130px" href="#"/> 
+<img align="left" src="ngayal.jpg" width="95px" href="#"/> 
 
 ```javascript
 huza@archlinux
--------------------------------
+--------------
 Username: khuza08.
 School: Antartika 2 Vocational Highschool
 Status: Student
-Telegram: @huzawastaken (huzaKanjut)
+Telegram: @huzawastaken
 Pronouns: Jawa
 Hobbies: Makan, Minum, Begadang.
-Learning: C++, C#, Rust, Java.
+Learning: C, C++, Rust, Java.
 Laptop: MacBookAir
-OS: Arch Linux x86_64
-Kernel: 6.10.0-zen1-1-zen
+OS: Arch Linux
+Kernel: 6.10.0-zen1-2-zen
 ```
-<h2 align="center">Kanjut</h2>
-
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git,figma,tailwind,python,javascript,typescript,c,java,nextjs" /><br>
+</div>
 
