@@ -4,7 +4,7 @@
 > huza@archlinux:~$ neofetch
 ```
 
-<img align="left" src="ngayal.jpg" width="90px" href="#"/> 
+<img align="left" src="ngayal.jpg" width="100px" href="#"/> 
 
 ```javascript
 huza@archlinux
@@ -19,6 +19,7 @@ Learning: C, C++, Rust, Java.
 Laptop: MacBookAir
 OS: Arch Linux
 Kernel: 6.10.0-zen1-2-zen
+‎ 
 ```
 <br>
 <div align="center">
