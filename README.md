@@ -19,7 +19,7 @@ Learning: C, C++, Rust, Java.
 Laptop: MacBookAir
 OS: Arch Linux
 Kernel: 6.10.0-zen1-2-zen
-‎nothing can cure the soul but the senses, just as nothing can cure the senses but the soul.
+- 𝘴𝘵𝘳𝘪𝘷𝘦 𝘧𝘰𝘳 𝘢𝘮𝘦𝘭𝘪𝘰𝘳𝘢𝘵𝘪𝘰𝘯
 ```
 <br>
 <div align="center">
