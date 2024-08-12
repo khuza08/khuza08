@@ -3,7 +3,7 @@
 ```javascript
 > huza@archlinux:~$ neofetch
 ```
-<img align="left" src="ngayal.jpg" width="90px" href="#"/> 
+<img align="left" src="ngayal.jpg" width="100px" href="#"/> 
 
 ```javascript
 huza@archlinux
