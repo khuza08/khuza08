@@ -4,6 +4,8 @@
   <a href="https://www.go.dev">
     <img align="left" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*YISbBYJg5hkJGcQd.png" width="138" alt="Golang" />
   </a>
-  <img width="172" height="136" alt="image" src="https://github.com/user-attachments/assets/3bcb0762-55ad-4c8c-8b18-f077269ab0b6" />
+  
+  <img align="left" alt="dogcow" src="https://github.com/user-attachments/assets/3bcb0762-55ad-4c8c-8b18-f077269ab0b6" />
 
-if it works, dont touch it.
+  <img align="left" alt="clang" src="https://llvm.org/img/DragonMedium.png" />
+
