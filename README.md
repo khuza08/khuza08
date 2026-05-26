@@ -1,11 +1,10 @@
-<a href="https://www.linux.org">
-    <img align="left" src="https://imgs.search.brave.com/l1e9cONnCXXtBr7ugMe4kwn4VDsspclnxEjIEiknrBk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8zLzM1L1R1/eC5zdmcvNTEycHgt/VHV4LnN2Zy5wbmc" width="120" alt="Linux Penguin" />
+<p align="left">
+  <a href="https://www.linux.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Linux Penguin" style="max-width: 100%;" />
   </a>
   <a href="https://www.go.dev">
-    <img align="left" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*YISbBYJg5hkJGcQd.png" width="138" alt="Golang" />
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="100" alt="Golang" style="max-width: 100%;" />
   </a>
-  
-  <img align="left" alt="dogcow" src="https://github.com/user-attachments/assets/3bcb0762-55ad-4c8c-8b18-f077269ab0b6" />
-
-  <img align="left" alt="clang" src="https://llvm.org/img/DragonMedium.png" />
-
+  <img src="https://github.com/user-attachments/assets/3bcb0762-55ad-4c8c-8b18-f077269ab0b6" width="100" alt="dogcow" style="max-width: 100%;" />
+  <img src="https://llvm.org/img/DragonMedium.png" width="100" alt="clang" style="max-width: 100%;" />
+</p>
